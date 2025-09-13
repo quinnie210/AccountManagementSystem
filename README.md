@@ -23,4 +23,18 @@ This project was developed as part of a group assignment to practice object-orie
 - C# (.NET Framework)
 - Visual Studio
 
+## Example Run
+- **The program demonstrates:**
+  - User login and authentication
+  - Deposits, withdrawals, and purchases across accounts
+  - Exceptions for invalid operations
+  - Monthly statement processing
+  - Saving accounts and users to JSON
+
+## Authors
+- Quinn Nguyen
+- Kelly Cyusa
+- Sienna Halladeen
+
+
 
