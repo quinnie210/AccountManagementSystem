@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|c:\\users\\anna1\\onedrive\\documents\\school\\sem2\\programming 2\\accountsgroupprojecy\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|c:\\users\\anna1\\onedrive\\documents\\school\\sem2\\programming 2\\accountsgroupprojecy\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\savingaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:savingaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\transactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:transactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:visaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:logineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|c:\\users\\anna1\\onedrive\\documents\\school\\sem2\\programming 2\\accountsgroupprojecy\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProject.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProjecy.csproj|C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7403813-ECF8-4E6E-BA0D-8B24901A86A7}|AccountsGroupProjecy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:08:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:56:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\SavingAccounts.cs",
+              "RelativeDocumentMoniker": "SavingAccounts.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\SavingAccounts.cs",
+              "RelativeToolTip": "SavingAccounts.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:11:19.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:00:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisaAccount.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\VisaAccount.cs",
+              "RelativeDocumentMoniker": "VisaAccount.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\VisaAccount.cs",
+              "RelativeToolTip": "VisaAccount.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:58:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\CheckingAccount.cs",
+              "RelativeToolTip": "CheckingAccount.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACYAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:37:29.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:03:20.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:57:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Util.cs",
+              "RelativeDocumentMoniker": "Util.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Util.cs",
+              "RelativeToolTip": "Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:56:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:54:44.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Daytime.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Daytime.cs",
+              "RelativeDocumentMoniker": "Daytime.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Daytime.cs",
+              "RelativeToolTip": "Daytime.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:59:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Delegates.cs",
+              "RelativeDocumentMoniker": "Delegates.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Delegates.cs",
+              "RelativeToolTip": "Delegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:58:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\TransactionEventArgs.cs",
+              "RelativeDocumentMoniker": "TransactionEventArgs.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\TransactionEventArgs.cs",
+              "RelativeToolTip": "TransactionEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:57:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\LoginEventArgs.cs",
+              "RelativeDocumentMoniker": "LoginEventArgs.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\LoginEventArgs.cs",
+              "RelativeToolTip": "LoginEventArgs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:56:15.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountException.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\AccountException.cs",
+              "RelativeDocumentMoniker": "AccountException.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\AccountException.cs",
+              "RelativeToolTip": "AccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:54:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Enums.cs",
+              "RelativeDocumentMoniker": "Enums.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Enums.cs",
+              "RelativeToolTip": "Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:52:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anna1\\OneDrive\\Documents\\School\\Sem2\\Programming 2\\AccountsGroupProjecy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:51:16.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
